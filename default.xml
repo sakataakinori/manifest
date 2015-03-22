@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin"
-           fetch="https://github.com/sakataakinori"/> 
+           fetch="git://github.com/sakataakinori"/> 
   <default revision="master"
            remote="origin" />
   <project path="project1"
