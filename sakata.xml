@@ -2,10 +2,12 @@
 <manifest>
   <remote  name="origin"
            fetch="git://github.com/sakataakinori"/> 
-  <default revision="master"
-           remote="origin" />
-  <project path="project1"
-           name="test.git"/>
-  <project path="project2"
-           name="test2.git"/>
+  <project path="prj_provider"
+           revision="provider_first"
+           remote="origin"
+           name="provider.git"/>
+  <project path="prj_target"
+           revision="target_first"
+           remote="origin"
+           name="target.git"/>
 </manifest>
