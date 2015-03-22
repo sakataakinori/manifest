@@ -5,7 +5,7 @@
   <default revision="master"
            remote="origin" />
   <project path="project1"
-           name="project1"/>
+           name="test"/>
   <project path="project2"
-           name="project2"/>
+           name="test2"/>
 </manifest>
