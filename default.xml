@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin"
-           fetch="file:///home/sic_sakata"/> 
+           fetch="git://hogehoge.com/HogehogeProject"/> 
   <default revision="master"
            remote="origin" />
-  <project path="gitworkA"
-           name="gitworkA"/>
-  <project path="gitworkB"
-           name="gitworkB"/>
+  <project path="project1"
+           name="project1"/>
+  <project path="project2"
+           name="project2"/>
 </manifest>
